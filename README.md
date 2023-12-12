@@ -26,4 +26,24 @@ n = 5
 
 part_of_kernel(vector1, vector2, n)
 
-![alt text]([http://url/to/img.png](https://github.com/dimvdali/POLI-783-Labs/blob/main/Class783/screenshot.png)https://github.com/dimvdali/POLI-783-Labs/blob/main/Class783/screenshot.png)
+![](https://github.com/dimvdali/POLI-783-Labs/blob/main/Class783/screenshot.png?raw=true)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
