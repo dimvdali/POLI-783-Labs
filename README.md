@@ -22,3 +22,4 @@ vector2 = runif(n=5000, min=1, max=99)
 n = 5
 part_of_kernel(vector1, vector2, n)
 
+![alt text](http://url/to/img.png)
