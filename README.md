@@ -17,9 +17,13 @@ arguments
 - n: constant
 
 # Example
+
 vector1 = runif(n=5000, min=1, max=99)
+
 vector2 = runif(n=5000, min=1, max=99)
+
 n = 5
+
 part_of_kernel(vector1, vector2, n)
 
 ![alt text]([http://url/to/img.png](https://github.com/dimvdali/POLI-783-Labs/blob/main/Class783/screenshot.png)https://github.com/dimvdali/POLI-783-Labs/blob/main/Class783/screenshot.png)
