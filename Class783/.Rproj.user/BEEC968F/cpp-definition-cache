@@ -1,0 +1,19 @@
+[
+    {
+        "file": "/Users/macbookpro/Desktop/Class783/Class783/src/part_of_kernel.cpp",
+        "file_last_write": 1702385205.0,
+        "definitions": [
+            {
+                "usr": "c:@F@part_of_kernel#&1$@N@Rcpp@S@Vector>#VI14#@N@Rcpp@ST>1#T@PreserveStorage#S0_#&d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "part_of_kernel(const NumericVector &, const NumericVector &, double &)",
+                "file": "/Users/macbookpro/Desktop/Class783/Class783/src/part_of_kernel.cpp",
+                "line": 10,
+                "column": 8,
+                "hidden": false
+            }
+        ],
+        "hidden": false
+    }
+]
