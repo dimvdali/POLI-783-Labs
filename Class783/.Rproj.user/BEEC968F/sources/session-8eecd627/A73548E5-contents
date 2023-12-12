@@ -1,0 +1,17 @@
+library(Class783)
+
+vect1 = c(2.3, 4.5, 6, 7, 8)
+vect2 = c(6, 7, 4.7, 3, 4, 6)
+n = 4
+
+part_of_kernel(vect1, vect2, n)
+devtools::document(roclets = c('rd', 'collate', 'namespace'))
+preview_rd("rcpp_hello_world.Rd")
+devtools::document(roclets = c('rd', 'collate', 'namespace'))
+?part_of_kernel
+install.packages("mathjaxr")
+library(mathjaxr)
+library(devtools)
+load_all()
+devtools::install()
+?rnorm()

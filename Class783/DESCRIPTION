@@ -1,0 +1,12 @@
+Package: Class783
+Type: Package
+Title: POLI 783 Simple package with Rcpp extension
+Version: 1.0
+Date: 2023-12-12
+Author: Aleksandra Rumiantseva
+Maintainer: Your Name <rumiants@unc.edu>
+Description: This is the result of my final project for POLI 783 Lab classes. The function covers instructions from weeks 1-4 and uses Rcpp extension. The function has 3 arguments: two vectors and a constant.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.11)
+LinkingTo: Rcpp
+RoxygenNote: 7.2.3
